@@ -1,4 +1,4 @@
-# 👋 Hello, I'm James.
+## 👋 Hello, I'm James.
 
 - 🎓 I am a computer science student at Penn State.
 - 🎹 I play the piano and violin.
