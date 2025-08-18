@@ -1,4 +1,4 @@
-<a href="https://www.greetjames.com" target="_blank"><img width="3000" height="1000" alt="JamesRBRTS_Banner" src="https://github.com/user-attachments/assets/ebd40cea-e001-44dc-b936-a65743f60b08" /></a>
+<a href="https://www.greetjames.com"><img width="3000" height="1000" alt="JamesRBRTS_Banner" src="https://github.com/user-attachments/assets/ebd40cea-e001-44dc-b936-a65743f60b08" /></a>
 
 # 👋 Hello, I'm James.
 
@@ -7,16 +7,16 @@ Founder & CEO @ Undisclosed
 <br>
 
 prev.
-  <a href="https://github.com/microsoft"><img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_Microsoft" src="https://github.com/user-attachments/assets/54a1d17e-86b5-4249-81c5-9926119c8822" /></a>
-  <a href="https://github.com/janestreet"><img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_Jane_Street" src="https://github.com/user-attachments/assets/4789acef-7bc8-4a9d-8672-8b30834c9ca9" /></a> 
-  <a href="https://github.com/jpmorganchase"><img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_JPMorganChase" src="https://github.com/user-attachments/assets/dedb0b44-79ce-428c-b9b7-8c015fd126a0" /></a> 
-  <a href="https://github.com/capitalone"><img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_Capital_One" src="https://github.com/user-attachments/assets/53e5b7b0-9705-45eb-ab82-7645411bf702" /></a> 
-  <img width="120" height="24" alt="JamesRBRTS_Experience_Plaques_EY" src="https://github.com/user-attachments/assets/601a2660-258c-4ba9-bcea-be85b673252a" />
+  <a href="https://github.com/microsoft"><img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_Microsoft" src="https://github.com/user-attachments/assets/d6b001ed-f73d-49e8-9f86-c69c8dacabb9" /></a>
+  <a href="https://github.com/janestreet"><img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_Jane_Street" src="https://github.com/user-attachments/assets/17816d15-49a3-4372-bac0-3eba38a06269" /></a> 
+  <a href="https://github.com/jpmorganchase"><img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_JPMorganChase" src="https://github.com/user-attachments/assets/fa0ec3ad-7390-45a5-82d0-21d59909b63a" /></a> 
+  <a href="https://github.com/capitalone"><img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_Capital_One" src="https://github.com/user-attachments/assets/8669fb24-3042-43b7-8ba4-ed2a806c5b1a" /></a> 
+  <img width="120" height="24" alt="JamesRBRTS_Experience_Plaques_EY" src="https://github.com/user-attachments/assets/fccffb5a-b167-44c9-a6b6-6aa54e6f6396" />
 
 <br>
 
 CS + Math @
-  <a href="https://github.com/PennState"><img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_Penn_State" src="https://github.com/user-attachments/assets/5f1f66fd-8213-4fd0-834f-2b3c2b0b5eed"/></a>
+  <a href="https://github.com/PennState"><img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_Penn_State" src="https://github.com/user-attachments/assets/d9906033-ec3c-4517-9040-1ee4fd44d46a"/></a>
 
 <br>
 
