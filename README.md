@@ -38,4 +38,4 @@ I play the piano and violin ğŸ¼, and enjoy sharpening strategy through chess â™
 &nbsp;&nbsp;
 <a href="https://www.threads.com/@jamesrbrtshq"><img width="24" height="24" alt="Threads_Icon" src="https://github.com/user-attachments/assets/6d4d3910-8c8b-414f-ae26-4e90ff49d96e" /></a>
 &nbsp;&nbsp;
-<a href="https://www.threads.com/@jamesrbrtshq"><img width="24" height="24" alt="Threads_Icon" src="https://github.com/user-attachments/assets/d9f75b81-3abc-4c3f-b5a1-d0af5907a7a2" /></a>
+<a href="https://www.tiktok.com/@jamesrbrts"><img width="24" height="24" alt="TikTok_Icon" src="https://github.com/user-attachments/assets/d9f75b81-3abc-4c3f-b5a1-d0af5907a7a2" /></a>
