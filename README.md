@@ -2,7 +2,8 @@
 
 # 👋 Hello, I'm James.
 
-Founder & CEO @ Undisclosed
+Founder & CEO @ 
+  <img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_Deep_Technology" src="https://github.com/user-attachments/assets/91c23a72-35f0-4fae-8ffb-4a8e57be3816" />
 
 <br>
 
