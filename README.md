@@ -1,6 +1,6 @@
 <a href="https://www.greetjames.com"><img width="3000" height="1000" alt="JamesRBRTS_Banner" src="https://github.com/user-attachments/assets/ebd40cea-e001-44dc-b936-a65743f60b08" /></a>
 
-# 👋 Hello, I'm James.
+# James Roberts - Architect · Agentic AI
 
 Founder & CEO @ 
   <img width="120" height="24" alt="JamesRBRTS_Experience_Plaque_Deep_Technology" src="https://github.com/user-attachments/assets/91c23a72-35f0-4fae-8ffb-4a8e57be3816" />
